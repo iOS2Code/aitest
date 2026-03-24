@@ -1,14 +1,14 @@
 {
   "weather": {
-    "count": 1,
-    "highFrequencyRemaining": 4,
-    "nextCheck": "2026-03-24T20:55:00+08:00",
+    "count": 2,
+    "highFrequencyRemaining": 3,
+    "nextCheck": "2026-03-24T21:09:49+08:00",
     "mode": "high_frequency",
     "locations": ["Beijing", "Guiyang"]
   },
   "aiDaily": {
-    "lastUpdate": "2026-03-24T20:50:00+08:00",
+    "lastUpdate": "",
     "nextUpdate": "2026-03-25T09:00:00+08:00"
   },
-  "initialized": "2026-03-24T20:50:00+08:00"
+  "lastWeatherUpdate": "2026-03-24 21:04:47"
 }
