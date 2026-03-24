@@ -1,15 +1,15 @@
 {
   "weather": {
-    "count": 4,
-    "highFrequencyRemaining": 1,
-    "nextCheck": "2026-03-24T21:17:34+08:00",
-    "mode": "high_frequency",
+    "count": 5,
+    "highFrequencyRemaining": 0,
+    "nextCheck": "2026-03-24T23:18:12+08:00",
+    "mode": "normal",
     "locations": ["Beijing", "Guiyang"]
   },
   "aiDaily": {
     "lastUpdate": "",
     "nextUpdate": "2026-03-25T09:00:00+08:00"
   },
-  "lastWeatherUpdate": "2026-03-24 21:12:28",
-  "history": ["2026-03-24 21:09:58", "2026-03-24 21:12:28"]
+  "lastWeatherUpdate": "2026-03-24 21:18:08",
+  "history": ["2026-03-24 21:12:28", "2026-03-24 21:18:08"]
 }
