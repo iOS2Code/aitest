@@ -1,8 +1,8 @@
 {
   "weather": {
-    "count": 7,
+    "count": 8,
     "highFrequencyRemaining": 0,
-    "nextCheck": "2026-03-25T01:24:21+08:00",
+    "nextCheck": "2026-03-25T03:24:32+08:00",
     "mode": "normal",
     "locations": ["Beijing", "Guiyang"]
   },
@@ -10,6 +10,6 @@
     "lastUpdate": "",
     "nextUpdate": "2026-03-25T09:00:00+08:00"
   },
-  "lastWeatherUpdate": "2026-03-24 23:24:14",
-  "history": ["2026-03-24 21:24:21", "2026-03-24 23:24:14"]
+  "lastWeatherUpdate": "2026-03-25 01:24:29",
+  "history": ["2026-03-24 23:24:14", "2026-03-25 01:24:29"]
 }
